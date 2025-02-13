@@ -1,4 +1,3 @@
-import scala.collection.convert.ImplicitConversions.`seq AsJavaList`
 import scala.collection.mutable.ArrayBuffer
 
 //var a = List(1,0,2,5,0,0,3)
